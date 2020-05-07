@@ -5,7 +5,7 @@
  *
  * This software is the confidential and proprietary information
  * of Intland Software. ("Confidential Information"). You
- * shall not disclose such Confidential Information and
+ * shall not disclose such Confidential Information
 
 
 
