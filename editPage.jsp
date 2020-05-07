@@ -13,7 +13,6 @@
 <SCRIPT LANGUAGE="JavaScript" type="te
 <!-- Hide script from old browsers
 
-closing = true;
 
 function validate(frm) {
 	var name = frm.name.value;
