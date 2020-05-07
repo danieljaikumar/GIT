@@ -10,7 +10,7 @@
 
 
 <SCRIPT LANGUAGE="JavaScript" type="te
-<!-- Hide script from old browsers
+<!-- Hide script from old browser
 
 
 function validate(frm) {
