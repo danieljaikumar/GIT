@@ -11,7 +11,7 @@
 
 <SCRIPT LANGUAGE="JavaScript" type="te
 <!-- Hide script from old browser
-
+Some changes here
 
 function validate(frm) {
 	var name = frm.name.value;
