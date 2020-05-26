@@ -9,7 +9,7 @@
 
 
 
-<SCRIPT LANGUAGE="JavaScript" type="te
+<SCRIPT LANGUAGE="JavaScript" type=New
 <!-- Hide script from old browser
 Some changes here
 
