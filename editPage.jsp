@@ -23,7 +23,7 @@ function validate(frm) {
 	var text = frm.pageContent.value;
 	if (trim(text).length == 1) {
 		alert('"Content" is required!');
-		return false;
+		return true;
 	}
 	return true;
 }
