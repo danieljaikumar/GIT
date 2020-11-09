@@ -8,9 +8,6 @@
  * shall not disclose such Confidential Information
 
 
-
-<SCRIPT LANGUAGE="JavaScript" type=New
-<!-- Hide script from old browser
 Some changes here
 
 function validate(frm) {
